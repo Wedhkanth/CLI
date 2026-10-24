@@ -1,0 +1,4 @@
+* Completed the remaining exercism python questions. 
+* Buitl 2 mini projects from Bro codes's python course
+     -Encryption program
+     -Hangman Game 
