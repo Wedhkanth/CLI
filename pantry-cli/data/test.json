@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Bread Flour",
+        "quantity": 20.0,
+        "unit": "kg"
+    },
+    {
+        "name": "Yeast",
+        "quantity": 2.5,
+        "unit": "kg"
+    }
+]

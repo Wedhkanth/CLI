@@ -1,0 +1,2 @@
+[console_scripts]
+pantry = pantry.cli:main
